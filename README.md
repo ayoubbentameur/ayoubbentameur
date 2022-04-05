@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Bentameur Mohammed Ayoub,A mechanical engineering student 👨🏻‍🎓,who decided to become a programmer 👨🏻‍💻. 
-- 👀 I’m interested in Mobile APP development.
-- 🌱 I’m currently learning JAVA.
+- 👀 Mobile APP development.
 - 📫 How to reach me : ayoubbentameur2000@gmail.com
 
 <!---
