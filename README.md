@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on basics projects for beginners and problem solving <br>👯 I’m looking to collaborate on xda developers <br>🌱 I’m currently learning Java
+🔭 I’m currently working on basics projects for beginners and problem solving <br>👯 I’m looking to collaborate on xda developers <br>🌱 I’m currently learning Kotlin
 
 
 ## 🌐 Socials:
