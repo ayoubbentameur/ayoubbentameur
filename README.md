@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on basics projects for beginners and problem solving <br>👯 <br>🌱 I’m currently learning Kotlin
+🔭 I’m currently working on basics projects for beginners and problem solving  <br>🌱 I’m currently learning Kotlin
 
 
 ## 🌐 Socials:
